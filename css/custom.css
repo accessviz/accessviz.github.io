@@ -6,10 +6,14 @@ html,body{
 
 	/*font-weight: 600;*/
 }
+a { color: #3979B9; text-decoration: underline }
 .container-fluid,.full-length{
   height: 100vh !important;
   /*overflow-y: : hidden;*/
   /*max-height: 100%*/
+}
+p{
+	hyphens: auto; overflow-wrap: break-word; text-rendering: optimizeLegibility; font-kerning: normal;
 }
 .col-lg-6{
 	text-align: justify;
