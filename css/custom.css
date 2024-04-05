@@ -1,6 +1,6 @@
 html,body{
 	/*font-family: "Lucida Console", Monaco, monospace;*/
-	font-size: 16px;
+	font-size: 18px;
 	height: 100vh;
 
 
@@ -37,7 +37,7 @@ p{
 p.text_body {
 	font-family: "Lato";
 	margin-bottom: 2px;
-	font-size: 16px;
+	font-size: 18px;
 }
 
 .heading {
