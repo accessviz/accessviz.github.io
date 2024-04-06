@@ -14,9 +14,13 @@ a { color: #3979B9; text-decoration: underline }
 }
 p{
 	hyphens: auto; overflow-wrap: break-word; text-rendering: optimizeLegibility; font-kerning: normal;
+	line-height: 1.7em;
 }
 .col-lg-6{
 	text-align: justify;
+}
+ul{
+	line-height: 1.7em;
 }
 
 .inverted{
