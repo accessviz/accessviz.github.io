@@ -70,3 +70,9 @@ img.dp_image {
 	border: 1px solid #2196F3 !important;
 	/* margin: 10px; */
 }
+img.large {
+	/* float: left; */
+	height: 300px;
+	border: 1px solid #2196F3 !important;
+	/* margin: 10px; */
+}
